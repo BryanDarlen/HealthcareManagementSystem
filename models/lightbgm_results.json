@@ -1,0 +1,28 @@
+{
+  "model_name": "lightbgm",
+  "accuracy": 0.9717204002223457,
+  "precision": 0.927794492015737,
+  "recall": 0.9768518518518519,
+  "f1_score": 0.9516913946587537,
+  "f2_score": 0.9666296957129769,
+  "roc_auc": 0.9981035694417918,
+  "confusion_matrix": [
+    [
+      9976,
+      312
+    ],
+    [
+      95,
+      4009
+    ]
+  ],
+  "true_negatives": 9976,
+  "false_positives": 312,
+  "false_negatives": 95,
+  "true_positives": 4009,
+  "cost_false_negatives": 19000.0,
+  "cost_false_positives": 3744.0,
+  "benefit_true_positives": 753692.0,
+  "net_benefit": 730948.0,
+  "roi": 15.193897064937225
+}
